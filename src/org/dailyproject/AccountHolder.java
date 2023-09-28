@@ -5,7 +5,7 @@ public class AccountHolder extends Bank {
 		AccountHolder a = new AccountHolder();
 		int min = a.getMinimumBalance();
 		System.out.println(min);
-		a.setMinimumBalance(7000);
+		a.setMinimumBalance(4000);
 		System.out.println(a.getMinimumBalance());
 	}
 }

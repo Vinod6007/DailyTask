@@ -13,12 +13,12 @@ public class Encapsul {
 		return empid;
 	}
 
-	public void setname(String name) {
-		this.empname = name;
+	public void setname(String empname) {
+		this.empname = empname;
 	}
 
-	public void setid(int num) {
-		this.empid = num;
+	public void setid(int empid) {
+		this.empid = empid;
 	}
 
 }
